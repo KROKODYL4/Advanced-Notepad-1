@@ -1,0 +1,31 @@
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\CircularProgressBar.dll
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\WinFormAnimation.dll
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\CircularProgressBar.xml
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\bin\Debug\WinFormAnimation.xml
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.frmLoading.resources
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad\Notepad\obj\Debug\Notepad.csproj.CopyComplete
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.exe
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.pdb
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\Notepad.exe
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\Notepad.pdb
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\CircularProgressBar.dll
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\WinFormAnimation.dll
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\CircularProgressBar.xml
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\bin\Debug\WinFormAnimation.xml
+C:\Users\jacek\Desktop\Projekty Visual Studio 2019\ZROBIONE\Notepad - Copy\Notepad\obj\Debug\Notepad.csproj.CopyComplete
